@@ -672,6 +672,9 @@ footer a {
   .about-text-box p {
     margin: 0 0 0.45rem;
   }
+  .about-img img {
+      height:10rem;
+  }
 
   .title-heading h2 {
     margin-bottom: 2rem;
